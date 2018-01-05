@@ -1,0 +1,10 @@
+.whiteBG{
+	background-color: white;
+}
+.logo{
+	background-color: white;
+}
+.skin-blue .main-header .logo {
+    background-color: white;
+    color: #fff;
+    border-bottom: 0 solid transpa
